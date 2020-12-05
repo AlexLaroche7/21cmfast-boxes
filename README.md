@@ -10,3 +10,5 @@ Redshifts z = 8.0 to z = 18.0 were sampled at dz = 0.5.
 
 'power_spectra.png' contains the resulting power spectra from the 'E0_1500_filter_boxes' and 'E0_500_filter_boxes' simulations. Power spectra are at fixed k
 and varying z. All power spectra curve labels correspond to the labels given in the box folders.
+
+These plots were produced by Alex Laroche and Joey Banghal using 21CMFAST (https://github.com/21cmfast).
